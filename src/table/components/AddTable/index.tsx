@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React, { Component } from 'react';
 import styles from './styles.css';
 import TableIcon from './TableIcon';

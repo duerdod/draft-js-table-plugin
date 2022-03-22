@@ -2,7 +2,6 @@ module.exports = {
   plugins: [
     '@babel/plugin-proposal-optional-chaining',
     '@babel/plugin-syntax-jsx',
-    ['babel-plugin-react-css-modules', { option: 'value' }],
   ],
   env: {
     test: {
@@ -10,7 +9,6 @@ module.exports = {
       plugins: [
         '@babel/plugin-proposal-optional-chaining',
         '@babel/plugin-syntax-jsx',
-        ['babel-plugin-react-css-modules', { option: 'value' }],
       ],
     },
   },

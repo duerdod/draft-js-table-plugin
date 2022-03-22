@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React from 'react';
 import TextareaAutosize from './TextArea';
 const isIE = !!window.MSInputMethodContext && !!document.documentMode;

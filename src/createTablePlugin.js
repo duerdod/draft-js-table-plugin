@@ -1,6 +1,6 @@
 import decorateComponentWithProps from 'decorate-component-with-props';
 import DefaultTableComponent from './table/components/Table';
-import * as types from './table/constants';
+import * as types from '.';
 import tableStyles from './tableStyles.css';
 import {
   editColumn,

@@ -46,7 +46,6 @@
 }
 
 .addVideoPressedButton {
-    composes: addVideoButton;
     background: #ededed;
 }
 

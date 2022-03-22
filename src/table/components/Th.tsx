@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React from 'react';
 import InputCell from './InputCell';
 import EditButtons from './EditButtons';

@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React from 'react';
 import AddIcon from './AddIcon';
 import MinusIcon from './MinusIcon';
