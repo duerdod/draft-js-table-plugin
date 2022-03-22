@@ -69,6 +69,7 @@
     "typescript-plugin-css-modules": "^3.4.0"
   },
   "dependencies": {
+    "decorate-component-with-props": "^1.1.0",
     "rollup-plugin-postcss": "^4.0.2"
   }
 }
